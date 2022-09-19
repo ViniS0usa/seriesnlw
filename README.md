@@ -2,7 +2,7 @@
 >Projeto construido no evento da Rocketseat
 
 ![preview](./.github/preview.png)
-[Clique aqui para acessar](https://vinis0usa.github.io/AppNLW/)
+[Clique aqui para acessar](https://vinis0usa.github.io/seriesnlw/)
 
 # Tecnologias
 
